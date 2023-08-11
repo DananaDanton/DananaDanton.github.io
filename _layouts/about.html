@@ -59,19 +59,31 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <div class="photocollage-row">
+            <div class="photocollage-column">
+              <img src="assets/img/IMG_2122.jpg">
+              <img src="assets/img/IMG_2880.jpg">
+              <img src="assets/img/IMG_2050-2.jpg">
+              <img src="assets/img/IMG_4356.jpg">
+            </div>
+            <div class="photocollage-column">
+              <img src="assets/img/IMG_2490.jpg">
+              <img src="assets/img/IMG_2333.jpg">
+              <img src="assets/img/IMG_2530.jpg">
+              <img src="assets/img/IMG_4501.jpg">
+            </div>
+          </div>
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
                 {% include social.html %}
               </div>
-
               <div class="contact-note">
                 {{ site.contact_note }}
               </div>
-
             </div>
           {%- endif %}
         </article>
-
-</div>
+      </div>

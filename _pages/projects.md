@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: past gigs
+permalink: /gigs/
+description: Previous photography gigs that I have done.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

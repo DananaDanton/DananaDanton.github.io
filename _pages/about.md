@@ -2,25 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: A portfolio and service promoting website for myself, a young and passionate photographer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: anandtphotosite-portrait.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Mississauga, Ontario</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a 17-year old photographer based in the GTA with a strong interest in photography. I invest a lot of time in creative works, but I also offer high quality paid services. I am looking for local work and am happy to take on a variety of photography gigs.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Both my [creative](anandtphoto.ca/anand/creative) and [paid](anandtphoto.ca/anand/gigs) work are available on this website, and I encourage you to please take a look. I've worked over the years to develop my photography skills and I hope you enjoy, maybe enough to want to [work with me](anandtphoto.ca/anand/services) :)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Any form of support is appreciated, even an Instagram follow. [My Instagram page](instagram.com/anand_t_photography/) is dedicated to my creative works and I try to post pretty frequently.
